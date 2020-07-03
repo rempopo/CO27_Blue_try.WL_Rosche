@@ -195,13 +195,13 @@ kit_us_MGassm60 = [
 ];
 
 kit_us_art = [
-	["<EQUIPEMENT >>  ",us_u,"usm_vest_LBE_rm","","usm_bdu_cap_odg",""],
+	["<EQUIPEMENT >>  ",us_u,"usm_vest_LBE_rm","",us_h,""],
 	["<PRIMARY WEAPON >>  ","","",["","","",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
-	["<HANDGUN WEAPON >>  ","CUP_hgun_Colt1911","rhsusf_mag_7x45acp_MHP",["","","",""]],
+	["<HANDGUN WEAPON >>  ","","",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["CUP_HandGrenade_M67",2],["CUP_7Rnd_45ACP_1911",2],["PRIMARY MAG",8]]],
+	["<VEST ITEMS >> ",[]],
 	["<BACKPACK ITEMS >> ",[]]
 ];
 
