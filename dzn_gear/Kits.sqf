@@ -59,7 +59,7 @@ cargo_kit_us_cargo = [
 	[["rhs_weap_m72a7",4]],
 	[["rhsusf_20Rnd_762x51_m80_Mag",60],["CUP_HandGrenade_M67",20],["CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M",20],["1Rnd_HE_Grenade_shell",50],["CUP_1Rnd_StarFlare_White_M203",20],["CUP_7Rnd_45ACP_1911",20]],
 	[],
-	[]
+	[["CUP_B_AlicePack_OD",8]]
 ];
 
 kit_US_pl = [
