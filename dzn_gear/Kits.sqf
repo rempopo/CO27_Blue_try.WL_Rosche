@@ -194,6 +194,17 @@ kit_us_MGassm60 = [
 	["<BACKPACK ITEMS >> ",[["CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M",2]]]
 ];
 
+kit_us_art = [
+	["<EQUIPEMENT >>  ",us_u,"usm_vest_LBE_rm","","usm_bdu_cap_odg",""],
+	["<PRIMARY WEAPON >>  ","","",["","","",""]],
+	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
+	["<HANDGUN WEAPON >>  ","CUP_hgun_Colt1911","rhsusf_mag_7x45acp_MHP",["","","",""]],
+	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
+	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
+	["<VEST ITEMS >> ",[["CUP_HandGrenade_M67",2],["CUP_7Rnd_45ACP_1911",2],["PRIMARY MAG",8]]],
+	["<BACKPACK ITEMS >> ",[]]
+];
+
 //USSR
 
 #define ussr_u ["VDV_M69_FIELD","VDV_M69_FIELD","VDV_M69_FIELD","VDV_M69_FIELD_EFR","VDV_M69_FIELD_JRSZT","VDV_M69_FIELD_SZT"]
